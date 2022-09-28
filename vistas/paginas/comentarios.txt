@@ -1,0 +1,9 @@
+ <h3> Apellido: Redondo - Nombre: Monica - Correo: mcrsur@yahoo.com.ar - Comentario: prueba prueba - Fecha: 2022-07-21 20:43:37</h3> <h3> Apellido: lage - Nombre: carlos - Correo: lage@gmail.com - Comentario: otro comentario - Fecha: 2022-07-21 20:44:40</h3> <h3> Apellido: Perez - Nombre: Juan - Correo: jperez@gmail.com - Comentario: comentario comentario - Fecha: 2022-07-21 21:26:17</h3> <h3> Apellido:  - Nombre:  - Correo:  - Comentario:  - Fecha: <br />
+<b>Warning</b>:  Undefined variable $fecha_actual in <b>C:\xampp\htdocs\tp\vistas\paginas\contacto.php</b> on line <b>20</b><br />
+</h3> <h3> Apellido: Romero - Nombre: pipo - Correo: pipo@com - Comentario: otro comentario - Fecha: <br />
+<b>Warning</b>:  Undefined variable $fecha_actual in <b>C:\xampp\htdocs\tp\vistas\paginas\contacto.php</b> on line <b>20</b><br />
+</h3> <h3> Apellido: Redondo - Nombre: Monica - Correo: mcrsur@yahoo.com.ar - Comentario:  - Fecha: <br />
+<b>Warning</b>:  Undefined variable $fecha_actual in <b>C:\xampp\htdocs\tp\vistas\paginas\contacto.php</b> on line <b>20</b><br />
+</h3> <h3> Apellido: Redondo - Nombre: Monica - Correo: mcrsur@yahoo.com.ar - Comentario:  - Fecha: <br />
+<b>Warning</b>:  Undefined variable $fecha_actual in <b>C:\xampp\htdocs\tp\vistas\paginas\contacto.php</b> on line <b>20</b><br />
+</h3>
